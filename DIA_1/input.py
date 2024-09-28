@@ -1,0 +1,1 @@
+print('Tu nombre es '+ input('Dame tu Nombre: ') + ' Tu apellido es ' + input('Dame tu Apellido: '))

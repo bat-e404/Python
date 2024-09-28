@@ -1,0 +1,1 @@
+print('La cerveza se llama \"'+input('¿Cuál es tu lenguaje de programación favorito?:')+ input('¿Cuál es tu fruta favorita?:') +'\"')
